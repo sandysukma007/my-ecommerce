@@ -1,0 +1,54 @@
+.card .card-body .label-terlaris {
+    background-color: goldenrod;
+    width: 35%;
+    padding: 5px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: white;
+    font-weight: 700;
+    font-size: 13px;
+}
+
+.card .card-body .card-title {
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.card .card-body .card-text {
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: -11px;
+}
+
+.card .card-body .alert-casback {
+    padding: 3px;
+    width: 45%;
+    font-size: 13px;
+    font-weight: 700;
+    margin-top: -11px;
+}
+
+.card .gambar{
+    /* margin-top: -10px; */
+    width: 18px;
+    height: 18px;
+}
+
+.card .card-body .alamat-store {
+    font-size: 13px;
+    margin-top: -11px;
+}
+
+.card .card-body .rating {
+    margin-top: -11px;
+}
+
+.card .card-body .rating p{
+    font-size: 13px;
+    color: grey;
+}
+
+.card .card-body .rating .fa-star , .fa-star-half{
+    color: #FFC400;
+    font-size: 13px;
+}
